@@ -56,7 +56,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ✅ **GitHub Extra:**
 
 
-<img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhojanperlaza&langs_count=10&theme=radical&layout=compact" alt="Jhojan :: Top Langs" />
+<img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhojanperlaza&langs_count=10&theme=radical&layout=compact" alt="Jhojan :: Top Langs" />
 <img src="https://github-readme-stats.vercel.app/api?username=jhojanperlaza&show_icons=true&theme=radical" alt="Jhojan Perlaza :: Profile Stats" />
 
 
